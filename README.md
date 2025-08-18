@@ -5,6 +5,7 @@
 
 <br>
 <br>
-@Central 2014 data show
+Central 2014 data show
+<br>
 <img src="https://github.com/sdhingole111/Super_Store_Dashboard/blob/e49b7e94c8a2ba0b65934cfbc716de9a28a91217/Central%202014%20data.png" alt="central 2014 dashboard" widht="800">
 
